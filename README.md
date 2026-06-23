@@ -1,4 +1,4 @@
-# GENWRATIVE-AI-PROJECTS
+# GENERATIVE-AI-PROJECTS
 
 GEN-AI-PROJECTS 
 Generative AI and Python Automation Projects Collection
